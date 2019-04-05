@@ -4,16 +4,6 @@ from fbchat.models import *
 from Jarvis_v2 import Facebook_bot
 
 
-user_name = "manish.gotame@yahoo.com"
-password = "airmon-ng interface"
-
-# user_name = "manishgt194@gmail.com"
-# password = "airmon-ng Manishgtm"
-# friend_id = "100009311778942" # prasanna
-# friend_id = "100008206456265" # Santosh 
-# friend_id = "100009251786386" # present
-friend_id = "100010850250687" # Manish
-# friend_id = "100009418603688" # roshan 
 
 prob = 0
 access = True
