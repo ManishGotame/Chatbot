@@ -4,12 +4,6 @@ from fbchat.models import *
 from Jarvis_v2 import Facebook_bot
 
 
-user_name = "9808002398"
-password = "airmon-ng Manishgtm"
-# friend_id = "100009311778942" # prasanna
-# friend_id = "100008206456265" #` Santosh 
-
-
 def Chatbot():
   try:
       prob = 0 
